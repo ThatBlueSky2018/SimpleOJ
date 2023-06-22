@@ -1,0 +1,10 @@
+{
+    "realTimeCost": 2,
+    "cpuTimeCost": 1,
+    "memoryCost": 3584,
+    "condition": 1,
+    "stdinPath": "./code/data/9fbd3eab-88a6-4c27-ab9d-09eb6c34aac0/test0.in",
+    "stdoutPath": "./code/data/9fbd3eab-88a6-4c27-ab9d-09eb6c34aac0/test0.out",
+    "stderrPath": "",
+    "loggerPath": ""
+}

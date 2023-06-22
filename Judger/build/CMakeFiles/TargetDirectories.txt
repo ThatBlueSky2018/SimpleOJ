@@ -1,0 +1,3 @@
+/home/gilgamesh/图片/YuJudge-Core-master/build/CMakeFiles/y_judge.dir
+/home/gilgamesh/图片/YuJudge-Core-master/build/CMakeFiles/edit_cache.dir
+/home/gilgamesh/图片/YuJudge-Core-master/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+{
+  "name": "SimpleOJ",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@codemirror/lang-cpp": "^6.0.2",
+    "@codemirror/next": "^0.16.0",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "axios": "^1.4.0",
+    "codemirror": "^6.0.1",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.3.5",
+    "prismjs": "^1.29.0",
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
