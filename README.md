@@ -24,7 +24,7 @@
 
 主页页面中列举了已经保存在后端的所有题目的列表，支持按照不同的名称对题目进行检索，方便用户根据自己的需求和兴趣寻找适合的题目。
 
-![problems](images\\problems.jpg)
+<img src="images\\problems.png" alt="register" style="zoom:67%;" />
 
 **3.查看具体的题目信息**
 
