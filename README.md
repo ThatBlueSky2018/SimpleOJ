@@ -94,8 +94,7 @@ package.json: 项目的配置文件，包含项目依赖、脚本命令等信息
 
 后端模式图如下：
 
-![Diagram](images\\Diagram.jpg)
-
+<img src="images\\Diagram.jpg" alt="register" style="zoom:67%;" />
 其中值得重点关注的表有：
 
 - user_user：这张表保存的是有关用户的信息
