@@ -24,25 +24,24 @@
 
 主页页面中列举了已经保存在后端的所有题目的列表，支持按照不同的名称对题目进行检索，方便用户根据自己的需求和兴趣寻找适合的题目。
 
-<img src="images\\problems.png" alt="register" style="zoom:67%;" />
+<img src="images\\problems.jpg" alt="register" style="zoom:67%;" />
 
 **3.查看具体的题目信息**
 
 点开某一个题目后，可以查看该题的具体信息，包括题目描述、输入输出、时间空间限制等。
 
-![problemDetail](images\\problem.jpg)
+<img src="images\\problem.jpg" alt="register" style="zoom:67%;" />
 
 **4.提交代码**
 
 在代码输入区域，用户可以输入自己的代码并提交。
 
-![code](images\\code.jpg)
-
+<img src="images\\code.jpg" alt="register" style="zoom:67%;" />
 **5.查看判题结果**
 
 此界面可以动态加载判题结果并显示。
 
-![result](images\\submit.jpg)
+<img src="images\\submit.jpg" alt="register" style="zoom:67%;" />
 
 ## 三、前端介绍
 
